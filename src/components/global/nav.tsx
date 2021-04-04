@@ -4,7 +4,7 @@ import {NavLink} from 'react-router-dom';
 const Nav = () => {
   const navItems = [
     {path: '/', text: 'Home'},
-    {path: '/about', text: 'About'}
+    {path: '/capsules', text: 'Capsules'}
   ];
   return (
     <div className="container mx-auto mb-10">
